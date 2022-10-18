@@ -1,4 +1,4 @@
-# Linear-Regression-function
+# Linear-Regression-function - coded using Python
 
 ## Datasets used to perform Linear Regression analysis:
 ## 1. Housing Dataset
